@@ -1,12 +1,22 @@
-The folder LLM Clustering DAGs contains the causal DAGs generated using the clusters obtained from the LLM clustering method. 
+# Repository Information
 
-The folder Hierarichal Clustering DAGs contains the causal DAGs generated using the clusters obtained from Hierarichal agglomerative clustering.
+The two main folders of this GitHub repository contain the causal DAGs generated in [Towards Automating Causal Discovery in Financial Markets and Beyond](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4679414). 
 
-The subfolders in both these folders are named after the clusters obtained from each method respectively. The node.csv file contains the names and definitions asociated with the nodes in the DAG, the edge.csv file contains the edges in the DAG and the viz.png file is a visualization of the DAG.
+Please to cite this paper when utilizing the causal DAGs in your work.
 
-Descriptions for each of the clusters can be found in the definitions.csv files of each folder.
+## LLM Clustering DAGs
+This folder contains DAGs created using the clusters obtained from the LLM clustering method. Each subfolder is named after the respective clusters, containing three essential files: 
+- **node.csv:** Includes names and definitions of nodes in the DAG.
+- **edge.csv:** Lists the edges present in the DAG.
+- **viz.png:** Provides a visualization of the DAG.
 
-For more information on how these DAGs were generated, please refer to the methodology section of https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4679414.
+## Hierarchical Clustering DAGs
+This folder contains DAGs created using the clusters obtained from the hierarchical agglomerative clustering from [Is There a Replication Crisis in Finance?](https://onlinelibrary.wiley.com/doi/full/10.1111/jofi.13249). Each subfolder is named after the respective clusters, containing three essential files: 
+- **node.csv:** Includes names and definitions of nodes in the DAG.
+- **edge.csv:** Lists the edges present in the DAG.
+- **viz.png:** Provides a visualization of the DAG.
 
-Please cite this paper as well if you use the causal DAGs.
+To delve into cluster descriptions, consult the "definitions.csv" files within each folder.
+
+For detailed insights into the DAG generation methodology, please refer to the methodology section of the associated academic paper.
 
