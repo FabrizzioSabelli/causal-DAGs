@@ -1,0 +1,16 @@
+,Node A,Node B
+0,at_be,market_equity
+1,market_equity,div12m_me
+2,market_equity,fcf_me
+3,market_equity,eq_dur
+4,market_equity,ival_me
+5,market_equity,eqpo_me
+6,market_equity,debt_me
+7,market_equity,ebitda_mev
+8,market_equity,at_me
+9,market_equity,be_me
+10,market_equity,eqnetis_at
+11,market_equity,eqnpo_me
+12,market_equity,bev_mev
+13,market_equity,eqnpo_12m
+14,market_equity,chcsho_12m

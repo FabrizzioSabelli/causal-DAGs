@@ -1,0 +1,15 @@
+,Node A,Node B
+0,netdebt_me,cash_at
+1,netdebt_me,aliq_mat
+2,z_score,netdebt_me
+3,at_be,z_score
+4,at_be,aliq_mat
+5,at_be,cash_at
+6,at_be,tangibility
+7,at_be,rd5_at
+8,rd_sale,rd5_at
+9,rd_sale,z_score
+10,tangibility,aliq_mat
+11,tangibility,cash_at
+12,cash_at,aliq_mat
+13,ni_ivol,bidaskhl_21d

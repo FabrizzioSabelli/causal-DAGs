@@ -1,0 +1,16 @@
+,Node A,Node B
+0,niq_be,o_score
+1,niq_be,f_score
+2,ebit_bev,o_score
+3,ebit_bev,f_score
+4,ebit_sale,f_score
+5,ebit_sale,o_score
+6,ope_be,o_score
+7,ope_be,f_score
+8,ope_bel1,o_score
+9,ope_bel1,f_score
+10,f_score,ocf_at
+11,f_score,ni_be
+12,o_score,ocf_at
+13,turnover_var_126d,dolvol_var_126d
+14,ni_be,o_score

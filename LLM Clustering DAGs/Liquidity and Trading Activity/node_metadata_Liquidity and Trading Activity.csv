@@ -1,0 +1,13 @@
+,Name,definition
+0,aliq_at,Ortiz-Molina and Phillips Liquidity (i.e. Cash and Short-term Investments + Current Operating Assets plus total assets minus current assets minus intangible assets) scaled by total assets lagged by a year
+1,aliq_mat,current Ortiz-Molina and Phillips Liquidity (i.e. Cash and Short-term Investments + Current Operating Assets plus total assets minus current assets minus intangible assets) scaled by lagged Market assets (i.e. total assets ajusted with foreign exchange rate plus book equity (i.e. Shareholders equity plus Deferred Taxes and Investment credit minus preferred stock) adjusted with foreign exchange rate plus the specific company's market equity)
+2,ami_126d,"current Amihud Measure is  a measure of illiquidity, which is the daily ratio of absolute stock return to its dollar volume. (i.e. Trading volume (total number of shares of a stock sold during a period) mutiplied by stock share price)"
+3,bidaskhl_21d,High-low bid ask estimator from Daily High and Low Prices of the previous 21 trading days (i.e. the previous month)
+4,cash_at,current Cash and Short Term Investments scaled by current total assets
+5,dolvol_126d,Dollar Volume in other words Trading volume (total number of shares of a stock sold during a period) mutiplied by stock share price over the previous 6 months
+6,dolvol_var_126d,Coefficient of variation for dollar trading volume (i.e. Dollar Volume in other words Trading volume (total number of shares of a stock sold during a period) mutiplied by stock share price) over previous 6 months.
+7,turnover_126d,ratio Trading volume (total number of shares of a stock sold during a period) to number of shares over the previous 126 trading days (6 months)
+8,turnover_var_126d,Coefficient of variation for share turnover (ratio Trading volume to number of shares) over previous 6 months
+9,zero_trades_126d,Number of days with zero trades with turnover as tiebreaker over the past 126 trading days (i.e. the previous 6 months)
+10,zero_trades_21d,Number of days with zero trades with turnover as tiebreaker over the past 21 trading days (i.e. the previous month)
+11,zero_trades_252d,"Number of days with zero trades with turnover as tiebreaker over the past 252 trading days (i.e,. The previous year)"

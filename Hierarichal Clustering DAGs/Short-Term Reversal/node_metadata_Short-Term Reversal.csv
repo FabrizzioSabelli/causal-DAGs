@@ -1,0 +1,7 @@
+,Name,definition
+0,rskew_21d,Skewness of the stock returns over the previous month (21 trading days)
+1,iskew_capm_21d,Idiosyncratic skewness from the CAPM model (skewness of the error term of the CAPM model)
+2,iskew_ff3_21d,Idiosyncratic skewness from the Fama-French 3-factor model (skewness of the error term of the Fama-French 3-factor model)
+3,iskew_hxz4_21d,Idiosyncratic skewness from the q-factor model (skewness of the error term of the q-factor model)
+4,ret_1_0,ratio of the current Cumulative stock return estimated from stock returns to the Cumulative stock return estimated from stock returns lagged 1 month.
+5,rmax5_rvol_21d,Maximum 5-day stock returns over the previous 21 trading days (i.e. the previous month) scaled by annual realized volatility (voatility of the stock returns of the past year)

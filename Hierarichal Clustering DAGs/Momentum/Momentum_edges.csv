@@ -1,0 +1,20 @@
+,Node A,Node B
+0,ret_6_1,ret_3_1
+1,ret_6_1,seas_1_1na
+2,ret_6_1,resff3_6_1
+3,ret_6_1,prc_highprc_252d
+4,ret_12_1,ret_6_1
+5,ret_12_1,ret_3_1
+6,ret_12_1,ret_9_1
+7,ret_12_1,seas_1_1na
+8,ret_12_1,resff3_12_1
+9,ret_12_1,prc_highprc_252d
+10,resff3_12_1,resff3_6_1
+11,resff3_12_1,prc_highprc_252d
+12,seas_1_1na,ret_3_1
+13,seas_1_1na,prc_highprc_252d
+14,ret_9_1,ret_6_1
+15,ret_9_1,ret_3_1
+16,ret_9_1,seas_1_1na
+17,ret_9_1,resff3_6_1
+18,ret_9_1,prc_highprc_252d

@@ -1,0 +1,19 @@
+,Name,definition
+0,ocfq_saleq_std, Volatility of the ratio of current quarterly value of  Operating activities of the Cash Flow to current quarterly value of  Sales 
+1,earnings_variability,ratio of variability of scaled Net income to scaled Operating activities Cash Flow over a period of five years
+2,seas_6_10na,Average stock return over non-annual lags over the period of  10 years ago to 6 years ago
+3,ivol_ff3_21d,Idiosyncratic volatility (i.e. volatility that cannot be explained by market volatility) from the Fama-French 3-factor model of the previous month)
+4,ivol_capm_252d,Idiosyncratic volatility from the CAPM (i.e. Capital Asset Pricing Model) of the past 252 trading days (i.e. the previous year)
+5,ivol_capm_21d,Idiosyncratic volatility from the CAPM (i.e. Capital Asset Pricing Model) of the past 21 tradings (i.e. the previous month)
+6,ivol_hxz4_21d,Idiosyncratic volatility from the q-factor model (i.e. q-factor model is an empirical implementation of the investment-based capital asset pricing model [the Investment CAPM]) of the past 21 tradings (i.e. the preivous month)
+7,rvol_21d,stock returns volatility of the previous trading 21 days (i.e. the previous month)
+8,beta_60m,CAPM (i.e. Capital Asset Pricing Model) Beta  (i.e. measure of the volatility–or systematic risk–of a security or portfolio compared to the market as a whole) over the past 5 years. The formula is covariance of a specfic companies's stock returns and the market stock returns divided by the variance of the market stock returns over the same period.
+9,betabab_1260d,correlation between the stock returns and the market stock returns for the previous 5 years multiplied by the stock's realized volatility of the previous year divided by the market realized volatility of the previous year.
+10,beta_dimson_21d,Dimson market beta over the previous 21 trading days (i.e. the previous month). A market beta is measure of the volatility–or systematic risk–of a security or portfolio compared to the market as a whole.
+11,turnover_126d,ratio Trading volume (total number of shares of a stock sold during a period) to number of shares over the previous 126 trading days (6 months)
+12,zero_trades_21d,Number of days with zero trades with turnover as tiebreaker over the past 21 trading days (i.e. the previous month)
+13,zero_trades_126d,Number of days with zero trades with turnover as tiebreaker over the past 126 trading days (i.e. the previous 6 months)
+14,zero_trades_252d,"Number of days with zero trades with turnover as tiebreaker over the past 252 trading days (i.e,. The previous year)"
+15,rmax1_21d,Maximum daily stock return over the previous 21 trading days (i.e. the previous month)
+16,betadown_252d,Beta (i.e. measure of the volatility–or systematic risk–of a security or portfolio compared to the market as a whole) of a stock's stock returns with respect to the negative market stock returns (i.e. when the market stock returns are negative) over the previous year. This is calculated using linear regression.
+17,rmax5_21d,Maximum 5-day stock returns over the previous 21 trading days (i.e. the previous month)

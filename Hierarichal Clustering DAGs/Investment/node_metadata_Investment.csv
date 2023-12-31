@@ -1,0 +1,23 @@
+,Name,definition
+0,ret_60_12,ratio of change of cumulative stock returns 1 year lagged  from to cumulative stock returns 5 years lagged 
+1,sale_gr3,Growth of sales over the past 3 years (ratio of current sales to sales of 3 years ago)
+2,sale_gr1,Growth of sales over the past 1 year (ratio of current sales to sales of 1 year ago)
+3,at_gr1,Growth of total assets over the past 1 year (ratio of current total assets to total assets of 1 year ago)
+4,ppeinv_gr1a,"difference in Total (Gross) Property, Plant and Equipment (i.e. the cost and/or valuation of tangible fixed assets used in the production of revenue) Less Inventories over a year scaled by total assets lagged 1 year"
+5,noa_gr1a,Net operating Assets (i.e. short-term and long-term net Operating assets minus operating liabilities) over a year scaled by current total assets
+6,lnoa_gr1a," change in Long-term Net Operating Assets (i.e. Total [Net] Property, Plant and Equipment plus Total Intangible Assets + Assets [Other] plus Liabilities [Other] + Depreciation and Amortization) over a year scaled by change in total assets over the same year.  Assets [Other] represents noncurrent assets that cannot be classified as property, plant and equipment/ tangible fixed assets, investments and advances, or intangible assets. Liabilities [Other] represents all noncurrent liabilities that are not debt, deferred taxes, investment tax credits, minority interest or shareholders' equity. Total [Net] Property, Plant and Equipment represents the cost, less accumulated depreciation, of tangible fixed property used in the production of revenue."
+7,capx_gr1,Growth of Capital Expenditures over the previous year (i.e. change Capital Expenditures over 1 year)
+8,capx_gr2,Growth of Capital Expenditures over the 2 previous years (i.e. change Capital Expenditures over 2years)
+9,capx_gr3,Growth of Capital Expenditures over the 3 previous years (i.e. change Capital Expenditures over 3years)
+10,inv_gr1,Growth of inventory over the past year (i.e. ratio of current inventory to inventory 1 year ago)
+11,inv_gr1a,change of inventory over the previous year scaled by current  total assets
+12,coa_gr1a,change in current operating assets (i.e. Current Assets minus Cash and Short-Term Investments) over 1 year  scaled by current total assets
+13,col_gr1a,change in current operating liabilities (i.e. Current liabilities minus Debt in current liabilities) over 1 year  scaled by current total assets
+14,nncoa_gr1a,change in Net Non-Current Operating Assets (i.e Non current operating assets minus non-current operating liabilities) over 1 year scaled by total assets
+15,ncoa_gr1a,change in Non-Current Operating Assets (i.e. Total current assets minus Current Assets minus Investments and Advances [Other]) over 1 year scaled by current total assets. Investments and Advances [Other] represents long-term receivables and other investments and advances including investments in unconsolidated companies in which there is no control.
+16,be_gr1a,ratio of change in book equity  (i.e. Shareholders equity plus Deferred Taxes and Investment credit minus preferred stock) over 1 year to current total assets
+17,saleq_gr1,Growth of quartely Net Sales over the previous year (i.e. ratio of current net sales in a quarter to current net sales for the same quarter 1 year ago)
+18,emp_gr1,Growth of number of employees over the previous year (hiring rate)
+19,aliq_at,Ortiz-Molina and Phillips Liquidity (i.e. Cash and Short-term Investments + Current Operating Assets plus total assets minus current assets minus intangible assets) scaled by total assets lagged by a year
+20,seas_2_5na,Average stock return over non-annual lags over the period of  5 years ago to 2 years ago
+21,mispricing_mgmt,"average of the following elements: Change in Shares - 12 Month (i.e. ratio of current adjusted publicly held shares to adjusted publicly held shares lagged 1 year), Net Equity Payout - 12 Month (i.e. ratio of current cumulative stock returns to cumulative stock returns lagged 1 year minus the ratio of current market equity to market equity lagged 1 year), current Operating Accruals (i.e. Net Income minus Operating Activities Net Cash Flow) , current Net operating Assets (i.e. total Operating assets minus total operating liabilities), Growth of total assets over the past 1 year (ratio of current total assets to total assets of 1 year ago), difference in Total (Gross) Property, Plant and Equipment Less Inventories over a year"

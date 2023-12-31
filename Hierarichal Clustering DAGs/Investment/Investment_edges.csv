@@ -1,0 +1,18 @@
+,Node A,Node B
+0,ret_60_12,seas_2_5na
+1,sale_gr1,sale_gr3
+2,sale_gr1,saleq_gr1
+3,sale_gr1,emp_gr1
+4,at_gr1,noa_gr1a
+5,at_gr1,lnoa_gr1a
+6,at_gr1,aliq_at
+7,at_gr1,mispricing_mgmt
+8,at_gr1,coa_gr1a
+9,at_gr1,col_gr1a
+10,at_gr1,nncoa_gr1a
+11,at_gr1,ncoa_gr1a
+12,at_gr1,be_gr1a
+13,at_gr1,ppeinv_gr1a
+14,capx_gr1,capx_gr2
+15,capx_gr2,capx_gr3
+16,inv_gr1,inv_gr1a

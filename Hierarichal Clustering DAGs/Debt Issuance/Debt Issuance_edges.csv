@@ -1,0 +1,12 @@
+,Node A,Node B
+0,noa_at,capex_abn
+1,debt_gr3,capex_abn
+2,debt_gr3,noa_at
+3,ncol_gr1a,noa_at
+4,ncol_gr1a,debt_gr3
+5,nfna_gr1a,noa_at
+6,fnl_gr1a,noa_at
+7,fnl_gr1a,debt_gr3
+8,fnl_gr1a,nfna_gr1a
+9,ni_ar1,debt_gr3
+10,ni_ar1,nfna_gr1a

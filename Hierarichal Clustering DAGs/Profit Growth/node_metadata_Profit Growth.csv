@@ -1,0 +1,13 @@
+,Name,definition
+0,niq_su,Standardized unexpected quartely earnings (i.e. Net income) surprise. A standardized unexpected quartely earnings surprise is determined by comparing the value of the current realization with values lagged 3 financial quarters and 15 financial quarters.
+1,saleq_su,Standardized unexpected quartely revenue (i.e. Sales) surprise. A standardized unexpected quartely revenue surprise is determined by comparing the value of the current realization with values lagged 3 financial quarters and 15 financial quarters.
+2,tax_gr1a,Effective Income Tax Rate Change over the previous year
+3,niq_be_chg1,Change over a year of the Quartely net income before extraordinary items scaled by book equity  (i.e. Shareholders equity plus Deferred Taxes and Investment credit minus preferred stock) lagged 3 quarters
+4,niq_at_chg1,Change over a year of the Quartely net income before extraordinary items scaled by total assets  lagged 3 quarters
+5,dsale_dinv,"Change to expected sales minus change in expected Inventory. The change in expectations of a certain element is calculated using the current value, the value lagged 1 year and the value lagged two years."
+6,dsale_drec,"Change to expected sales minus change in expected  Account receivables (i.e. claims against others, after applicable reserves, collectible in money, generally within one year). The change in expectations of a certain element is calculated using the current value, the value lagged 1 year and the value lagged two years."
+7,dsale_dsga,"Change to expected sales minus change in expected selling, general and administrative expenses. The change in expectations of a certain element is calculated using the current value, the value lagged 1 year and the value lagged two years."
+8,sale_emp_gr1,Sales scaled by Employees Growth over 1 year
+9,seas_1_1an,stock returns lagged by 12 months
+10,ret_12_7,ratio of cumulative stock returns lagged 7 months to the cumulative stock  stock returns lagged 1 year (i.e 1 year ago).
+11,ocf_at_chg1,Change in operating activities cash flow over a year

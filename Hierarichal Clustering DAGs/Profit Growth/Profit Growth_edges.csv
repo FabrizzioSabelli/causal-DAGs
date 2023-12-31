@@ -1,0 +1,11 @@
+,Node A,Node B
+0,niq_su,niq_at_chg1
+1,niq_su,niq_be_chg1
+2,niq_su,ocf_at_chg1
+3,saleq_su,dsale_dinv
+4,saleq_su,dsale_drec
+5,saleq_su,ocf_at_chg1
+6,saleq_su,sale_emp_gr1
+7,saleq_su,dsale_dsga
+8,tax_gr1a,ocf_at_chg1
+9,seas_1_1an,ret_12_7

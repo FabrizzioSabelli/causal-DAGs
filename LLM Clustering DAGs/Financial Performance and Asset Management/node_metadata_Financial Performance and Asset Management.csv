@@ -1,0 +1,19 @@
+,Name,definition
+0,mispricing_mgmt,"average of the following elements: Change in Shares - 12 Month (i.e. ratio of current adjusted publicly held shares to adjusted publicly held shares lagged 1 year), Net Equity Payout - 12 Month (i.e. ratio of current cumulative stock returns to cumulative stock returns lagged 1 year minus the ratio of current market equity to market equity lagged 1 year), current Operating Accruals (i.e. Net Income minus Operating Activities Net Cash Flow) , current Net operating Assets (i.e. total Operating assets minus total operating liabilities), Growth of total assets over the past 1 year (ratio of current total assets to total assets of 1 year ago), difference in Total (Gross) Property, Plant and Equipment Less Inventories over a year"
+1,sale_me,current Sales scaled by current market equity (i.e. Share Price times publicly held number of shares) 
+2,sale_gr3,Growth of sales over the past 3 years (ratio of current sales to sales of 3 years ago)
+3,be_gr1a,ratio of change in book equity  (i.e. Shareholders equity plus Deferred Taxes and Investment credit minus preferred stock) over 1 year to current total assets
+4,at_turnover,Curent sales scaled by average total assets the previous year (i.e. average of curren total assets and total assets lagged 1 year)
+5,sale_gr1,Growth of sales over the past 1 year (ratio of current sales to sales of 1 year ago)
+6,at_gr1,Growth of total assets over the past 1 year (ratio of current total assets to total assets of 1 year ago)
+7,gp_atl1,current Gross profit (Sales/Turnover minus the cost of goods sold) scaled by total assets lagged 1 year
+8,taccruals_at,Current total Accruals (i.e. Operating Accruals plus yearly change in Net financial assets) scaled by current total assets.
+9,saleq_gr1,Growth of quartely Net Sales over the previous year (i.e. ratio of current net sales in a quarter to current net sales for the same quarter 1 year ago)
+10,taccruals_ni,ratio of the current Total Accruals (i.e. Operating Accruals plus yearly change in Net financial assets) to the current Net Income Including Extraordinary Items
+11,tangibility,"ratio of weighted sum of the current values of following elements to current total assets: Cash and Short-term Assets, Account receivables (i.e. claims against others, after applicable reserves, collectible in money, generally within one year) and inventory and Property, Plans and Equipment Gross (i.e. the cost and/or valuation of tangible fixed assets used in the production of revenue) "
+12,tax_gr1a,Effective Income Tax Rate Change over the previous year
+13,sale_emp_gr1,Sales scaled by Employees Growth over 1 year
+14,sale_bev,"Current sales scaled by current book entrepresie value (total Invested Capital plus Debt in current liabilities minus Cash and Short-term investments). Total invested capital debt represents the sum of the following elements: total long-term debt, preferred stock, total noncontrolling interests and common equity."
+15,gp_at,current Gross profit (Sales/Turnover minus the cost of goods sold) scaled by current total assets
+16,sti_gr1a,Change in short-term investments over a year (i.e. current total short-term investments minus total short-term investments lagged 1 year) scaled by assets
+17,saleq_su,Standardized unexpected quartely revenue (i.e. Sales) surprise. A standardized unexpected quartely revenue surprise is determined by comparing the value of the current realization with values lagged 3 financial quarters and 15 financial quarters.

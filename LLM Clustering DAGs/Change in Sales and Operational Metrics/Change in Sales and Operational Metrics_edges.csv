@@ -1,0 +1,7 @@
+,Node A,Node B
+0,dsale_dsga,dsale_drec
+1,dsale_dsga,dsale_dinv
+2,dsale_dsga,dgp_dsale
+3,dsale_drec,dsale_dinv
+4,dsale_drec,dgp_dsale
+5,dsale_dinv,dgp_dsale

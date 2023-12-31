@@ -1,0 +1,12 @@
+,Node A,Node B
+0,aliq_at,aliq_mat
+1,bidaskhl_21d,zero_trades_21d
+2,cash_at,aliq_at
+3,dolvol_126d,ami_126d
+4,dolvol_126d,dolvol_var_126d
+5,turnover_126d,turnover_var_126d
+6,turnover_126d,zero_trades_126d
+7,turnover_126d,ami_126d
+8,zero_trades_126d,zero_trades_252d
+9,zero_trades_126d,zero_trades_21d
+10,zero_trades_252d,zero_trades_21d

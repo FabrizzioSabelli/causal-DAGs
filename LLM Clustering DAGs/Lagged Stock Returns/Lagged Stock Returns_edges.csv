@@ -1,0 +1,17 @@
+,Node A,Node B
+0,seas_6_10na,seas_2_5na
+1,seas_6_10na,seas_2_5an
+2,seas_6_10an,seas_2_5na
+3,seas_6_10an,seas_2_5an
+4,seas_2_5na,seas_1_1na
+5,seas_2_5na,seas_1_1an
+6,seas_2_5an,seas_1_1na
+7,seas_2_5an,seas_1_1an
+8,seas_16_20na,seas_11_15na
+9,seas_16_20na,seas_11_15an
+10,seas_16_20an,seas_11_15na
+11,seas_16_20an,seas_11_15an
+12,seas_11_15na,seas_6_10na
+13,seas_11_15na,seas_6_10an
+14,seas_11_15an,seas_6_10na
+15,seas_11_15an,seas_6_10an

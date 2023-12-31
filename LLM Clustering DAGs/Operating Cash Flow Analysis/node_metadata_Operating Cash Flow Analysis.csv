@@ -1,0 +1,7 @@
+,Name,definition
+0,ocf_me,current Operating activities Cash Flow scaled by current market equity (i.e. Share Price times publicly held number of shares) 
+1,oaccruals_at,Current operating Accruals (i.e. Net Income minus Operating Activities Net Cash Flow) scaled by current total assets.
+2,oaccruals_ni,ratio of Operating Accruals (i.e. Net Income minus Operating Activities Net Cash Flow) to the  current Net Income Including Extraordinary Items
+3,ocf_at_chg1,Change in operating activities cash flow over a year
+4,ocfq_saleq_std, Volatility of the ratio of current quarterly value of  Operating activities of the Cash Flow to current quarterly value of  Sales 
+5,ocf_at,current ratio of Operating activities Cash Flow scaled by current total assets

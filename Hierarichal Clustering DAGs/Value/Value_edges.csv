@@ -1,0 +1,16 @@
+,Node A,Node B
+0,be_me,bev_mev
+1,be_me,eq_dur
+2,be_me,ival_me
+3,debt_me,bev_mev
+4,at_me,ival_me
+5,ni_me,eq_dur
+6,ni_me,ival_me
+7,fcf_me,eqpo_me
+8,fcf_me,ocf_me
+9,fcf_me,div12m_me
+10,div12m_me,eqpo_me
+11,eqpo_me,eqnpo_me
+12,ebitda_mev,bev_mev
+13,sale_me,eq_dur
+14,netis_at,eqnetis_at

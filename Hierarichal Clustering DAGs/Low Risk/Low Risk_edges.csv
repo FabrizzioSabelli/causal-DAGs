@@ -1,0 +1,17 @@
+,Node A,Node B
+0,ivol_ff3_21d,ivol_capm_252d
+1,ivol_ff3_21d,ivol_capm_21d
+2,ivol_capm_252d,ivol_capm_21d
+3,ivol_capm_252d,ivol_hxz4_21d
+4,ivol_capm_252d,rvol_21d
+5,ivol_capm_21d,ivol_hxz4_21d
+6,ivol_capm_21d,rvol_21d
+7,beta_60m,betabab_1260d
+8,beta_60m,betadown_252d
+9,beta_60m,beta_dimson_21d
+10,turnover_126d,zero_trades_126d
+11,turnover_126d,zero_trades_252d
+12,turnover_126d,zero_trades_21d
+13,zero_trades_126d,zero_trades_21d
+14,zero_trades_252d,zero_trades_126d
+15,rmax1_21d,rmax5_21d

@@ -1,0 +1,8 @@
+,Name,definition
+0,capex_abn,ratio of current Change of Capital Expenditures to current Sales compared to the previous three years average of Capital Expenditures to Sales 
+1,noa_at,Net operating Assets (i.e. total Operating assets minus total operating liabilities) to total assets
+2,debt_gr3,Total Debt (i.e. Current Liabilities plus Long-Term Debt ) growth over the past 3 years  
+3,ncol_gr1a,Change in Non-Current Operating Liabilities (Total liabilities minus current liabilities minus long-term debt) over 1 year scaled by current total assets
+4,nfna_gr1a,Change in Net Financial Assets (Financial assets minus financial liabilities) over 1 year scaled by total assets scaled by current total assets
+5,fnl_gr1a,Change of financial liabilities (i.e. Total Debt plus preferred stock) over 1 year scaled by current total assets
+6,ni_ar1,1 year lagged Net Income to 1 year lagged total Assets 

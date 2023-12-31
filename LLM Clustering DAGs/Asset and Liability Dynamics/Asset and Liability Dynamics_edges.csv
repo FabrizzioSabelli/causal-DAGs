@@ -1,0 +1,19 @@
+,Node A,Node B
+0,fnl_gr1a,dbnetis_at
+1,fnl_gr1a,nfna_gr1a
+2,fnl_gr1a,debt_gr3
+3,coa_gr1a,cowc_gr1a
+4,cowc_gr1a,col_gr1a
+5,dbnetis_at,netis_at
+6,dbnetis_at,lti_gr1a
+7,debt_gr3,netdebt_me
+8,debt_gr3,netis_at
+9,nncoa_gr1a,ncoa_gr1a
+10,nncoa_gr1a,noa_at
+11,noa_gr1a,noa_at
+12,noa_at,ncoa_gr1a
+13,ncol_gr1a,noa_at
+14,ncoa_gr1a,ppeinv_gr1a
+15,ppeinv_gr1a,lnoa_gr1a
+16,lti_gr1a,lnoa_gr1a
+17,inv_gr1a,inv_gr1

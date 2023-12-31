@@ -1,0 +1,12 @@
+,Name,definition
+0,netdebt_me,Net debt (i.e. Total debt minus Cash and Short-term investments) scaled by Market equity ((i.e. Share Price times publicly held number of shares)
+1,z_score,"z_Score is the Altman Z-Score. It is  weighted sum of the following different elements: ratio of Market Equity (i.e. Share Price times publicly held number of shares) to total liabilities, current assets minus current liabilities, Operating Income Before Interest, Taxes, Depreciation and Amortization and Sales."
+2,at_be,ratio of Current Total Assets to book equity (i.e. Shareholders equity plus Deferred Taxes and Investment credit minus preferred stock) 
+3,rd_sale,ratio of current Research and Development Expenses to current Sales
+4,rd5_at,ratio of weighted sum of yearly Research and Development Expenses for each of the past 5 years to current total assets
+5,age,Age of the company (i.e. how long since the company has been created)
+6,tangibility,"ratio of weighted sum of the current values of following elements to current total assets: Cash and Short-term Assets, Account receivables (i.e. claims against others, after applicable reserves, collectible in money, generally within one year) and inventory and Property, Plans and Equipment Gross (i.e. the cost and/or valuation of tangible fixed assets used in the production of revenue) "
+7,cash_at,current Cash and Short Term Investments scaled by current total assets
+8,ni_ivol,current Net Income before extraordinary items Idiosyncratic Volatility (i.e. volatility that cannot be explained by market volatility)
+9,aliq_mat,current Ortiz-Molina and Phillips Liquidity (i.e. Cash and Short-term Investments + Current Operating Assets plus total assets minus current assets minus intangible assets) scaled by lagged Market assets (i.e. total assets ajusted with foreign exchange rate plus book equity (i.e. Shareholders equity plus Deferred Taxes and Investment credit minus preferred stock) adjusted with foreign exchange rate plus the specific company's market equity)
+10,bidaskhl_21d,High-low bid ask estimator from Daily High and Low Prices of the previous 21 trading days (i.e. the previous month)

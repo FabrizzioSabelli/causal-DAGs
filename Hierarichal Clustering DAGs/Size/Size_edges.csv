@@ -1,0 +1,5 @@
+,Node A,Node B
+0,market_equity,rd_me
+1,dolvol_126d,ami_126d
+2,prc,market_equity
+3,prc,dolvol_126d

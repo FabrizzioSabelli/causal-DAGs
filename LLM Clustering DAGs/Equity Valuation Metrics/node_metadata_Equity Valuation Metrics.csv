@@ -1,0 +1,17 @@
+,Name,definition
+0,at_be,ratio of Current Total Assets to book equity (i.e. Shareholders equity plus Deferred Taxes and Investment credit minus preferred stock) 
+1,market_equity,Stock share price times publicly held number of shares
+2,eqnetis_at,current Net equity issuance (i.e.  equity issuance in other words any funds received from issuance of common and preferred stock minus equity buyback) scaled by current total assets.
+3,eqnpo_12m,Net Equity Payout over 12 Month (i.e. ratio of current cumulative stock returns to cumulative stock returns lagged 1 year minus the ratio of current market equity to market equity lagged 1 year)
+4,div12m_me,current total yearly dividend yield (i.e. sum of monthly dividends times monthly share prices for the past 12 months) scaled by current market equity  (i.e. Share Price times publicly held number of shares)
+5,debt_me,current Total debt scaled by current market equity  (i.e. Share Price times publicly held number of shares) 
+6,chcsho_12m,Change in Shares over 12 Month (i.e. ratio of current adjusted publicly held shares to adjusted publicly held shares lagged 1 year)
+7,bev_mev,"current Book entreprise value (total Invested Capital plus Debt in current liabilities minus Cash and Short-term investments) scaled by current enterprise value. Total invested capital debt represents the sum of the following elements: total long-term debt, preferred stock, total noncontrolling interests and common equity."
+8,ival_me,"Intrisic value from Frankel and Lee scaled by current market equity (i.e. Share Price times publicly held number of shares) . The intrisic value is calculed using the following current values of the elements: total dividends, net income after extraordinary items, current book equity  (i.e. Shareholders equity plus Deferred Taxes and Investment credit minus preferred stock), book equity lagged 1 year and total assets."
+9,be_me,current Book equity (i.e. Shareholders equity plus Deferred Taxes and Investment credit minus preferred stock)  scaled by current market equity (i.e. Share Price times publicly held number of shares) 
+10,at_me,current Total assets  scaled by current market equity  (i.e. Share Price times publicly held number of shares) 
+11,eqnpo_me,current Net Equity payout (i.e. Equity payout minus Sale of Common and Preferred Stock) scaled by current market equity (i.e. Share Price times publicly held number of shares) 
+12,eqpo_me,current Equity payout (i.e. Equity buyback plus total dividends) scaled by current market equity (i.e. Share Price times publicly held number of shares) 
+13,fcf_me,current Free cash flow (Operating activities cash flow minus Capital Expenditures) scaled by current market equity (i.e. Share Price times publicly held number of shares)
+14,ebitda_mev,"current Operating Income Before Interest, Taxes, Depreciation and Amortization scaled by current enterprise value"
+15,eq_dur,"Equity duration. This element is constructed using the following elements: current net income before extraordinary items, current sales, sales lagged 1 year, current book equity (i.e. Shareholders equity plus Deferred Taxes and Investment credit minus preferred stock) and book equity lagged 1 year, market equity  (i.e. Share Price times publicly held number of shares) ."

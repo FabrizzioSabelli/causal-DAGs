@@ -1,0 +1,6 @@
+,Name,definition
+0,rd_me,Research and Development Expense scaled by market equity (i.e. Share Price times publicly held number of shares) 
+1,market_equity,Stock share price times publicly held number of shares
+2,dolvol_126d,Dollar Volume in other words Trading volume (total number of shares of a stock sold during a period) mutiplied by stock share price over the previous 6 months
+3,prc,current stock price per share
+4,ami_126d,"current Amihud Measure is  a measure of illiquidity, which is the daily ratio of absolute stock return to its dollar volume. (i.e. Trading volume (total number of shares of a stock sold during a period) mutiplied by stock share price)"

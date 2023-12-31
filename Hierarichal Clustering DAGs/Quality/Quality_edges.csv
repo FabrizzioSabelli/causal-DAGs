@@ -1,0 +1,11 @@
+,Node A,Node B
+0,niq_at,mispricing_perf
+1,sale_bev,at_turnover
+2,gp_at,gp_atl1
+3,gp_at,dgp_dsale
+4,gp_at,mispricing_perf
+5,op_at,op_atl1
+6,cop_at,cop_atl1
+7,qmj_prof,qmj
+8,qmj_growth,qmj
+9,qmj_safety,qmj

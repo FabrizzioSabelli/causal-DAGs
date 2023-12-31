@@ -1,0 +1,24 @@
+,Node A,Node B
+0,ebit_sale,ope_bel1
+1,ebit_sale,opex_at
+2,ebit_sale,op_at
+3,ebit_sale,pi_nix
+4,ebit_sale,ope_be
+5,ebit_sale,op_atl1
+6,cop_atl1,op_at
+7,cop_atl1,cop_at
+8,cop_at,op_at
+9,rd_sale,rd5_at
+10,rd_sale,rd_me
+11,rd_me,rd5_at
+12,capx_gr3,capex_abn
+13,capx_gr3,capx_gr2
+14,capx_gr2,capx_gr1
+15,capx_gr1,capex_abn
+16,pi_nix,opex_at
+17,opex_at,op_atl1
+18,opex_at,ope_bel1
+19,opex_at,ope_be
+20,opex_at,op_at
+21,ope_bel1,ope_be
+22,op_at,op_atl1

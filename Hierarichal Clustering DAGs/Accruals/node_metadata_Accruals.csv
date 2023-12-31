@@ -1,0 +1,7 @@
+,Name,definition
+0,oaccruals_at,Current operating Accruals (i.e. Net Income minus Operating Activities Net Cash Flow) scaled by current total assets.
+1,taccruals_at,Current total Accruals (i.e. Operating Accruals plus yearly change in Net financial assets) scaled by current total assets.
+2,cowc_gr1a,Operating Working Capital (i.e. current operating assets minus current operating liabilities) Change over the previous year scaled by current total assets.
+3,oaccruals_ni,ratio of Operating Accruals (i.e. Net Income minus Operating Activities Net Cash Flow) to the  current Net Income Including Extraordinary Items
+4,taccruals_ni,ratio of the current Total Accruals (i.e. Operating Accruals plus yearly change in Net financial assets) to the current Net Income Including Extraordinary Items
+5,seas_16_20na,Average stock return over non-annual lags over the period of 20 years ago to 16 years ago

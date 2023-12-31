@@ -1,0 +1,18 @@
+,Node A,Node B
+0,sale_gr1,sale_gr3
+1,sale_gr1,at_turnover
+2,sale_gr1,sale_bev
+3,sale_gr1,sale_me
+4,sale_gr1,sale_emp_gr1
+5,at_gr1,mispricing_mgmt
+6,at_gr1,taccruals_at
+7,at_gr1,gp_at
+8,at_gr1,at_turnover
+9,at_gr1,gp_atl1
+10,at_gr1,be_gr1a
+11,at_gr1,sti_gr1a
+12,at_gr1,tangibility
+13,taccruals_at,taccruals_ni
+14,taccruals_at,mispricing_mgmt
+15,saleq_gr1,saleq_su
+16,tax_gr1a,mispricing_mgmt

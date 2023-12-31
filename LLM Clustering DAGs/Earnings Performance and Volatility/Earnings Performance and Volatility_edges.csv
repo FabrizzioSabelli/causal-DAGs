@@ -1,0 +1,18 @@
+,Node A,Node B
+0,niq_at,niq_su
+1,niq_at,niq_at_chg1
+2,niq_at,earnings_variability
+3,niq_at,ebit_bev
+4,niq_at,ni_inc8q
+5,niq_at,ni_ar1
+6,niq_at,ni_me
+7,niq_at,ni_ivol
+8,ni_inc8q,niq_su
+9,niq_be,niq_su
+10,niq_be,earnings_variability
+11,niq_be,ebit_bev
+12,niq_be,ni_me
+13,niq_be,niq_be_chg1
+14,niq_be,ni_be
+15,ni_me,earnings_variability
+16,ebit_bev,earnings_variability

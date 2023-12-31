@@ -1,0 +1,17 @@
+,Name,definition
+0,ebit_sale,"current Operating Income After Depreciation (Earnings Before Interest and Taxes; the formula is sum of net sales minus Cost of Goods Sold  minus Selling, General & Administrative Expense minus Depreciation/Amortization) scaled by current sales."
+1,cop_atl1,current Cash based operating profit (Operating profit ala Ball minus Operating Accruals) scaled by total assets lagged 1 year. Operating accruals represents Net Income minus Operating Activities Net Cash Flow.
+2,cop_at,current Cash based operating profit (Operating profit ala Ball minus Operating Accruals) scaled by current total assets. Operating accruals represents Net Income minus Operating Activities Net Cash Flow.
+3,rd_sale,ratio of current Research and Development Expenses to current Sales
+4,rd_me,Research and Development Expense scaled by market equity (i.e. Share Price times publicly held number of shares) 
+5,capx_gr3,Growth of Capital Expenditures over the 3 previous years (i.e. change Capital Expenditures over 3years)
+6,capx_gr2,Growth of Capital Expenditures over the 2 previous years (i.e. change Capital Expenditures over 2years)
+7,rd5_at,ratio of weighted sum of yearly Research and Development Expenses for each of the past 5 years to current total assets
+8,capx_gr1,Growth of Capital Expenditures over the previous year (i.e. change Capital Expenditures over 1 year)
+9,pi_nix,current Earnings before Tax and Extraordinary Items to current Net Income Including Extraordinary Items
+10,capex_abn,ratio of current Change of Capital Expenditures to current Sales compared to the previous three years average of Capital Expenditures to Sales 
+11,opex_at,"current operating expenses (i.e. Cost of Goods Sold plus Selling, General and Administrative Expenses) scaled by current total assets."
+12,ope_bel1,"current Operating profit to Equity (Operating Income Before Interest, Taxes, Depreciation and Amortization minus Interest and Related Expense to the company of securing short- and long-term debt) scaled by current book equity lagged 1 year (i.e. Shareholders equity plus Deferred Taxes and Investment credit minus preferred stock)"
+13,op_at,"current Operating Profit ala Ball (i.e. Operating Income Before Interest, Taxes, Depreciation and Amortization plus Research and Development Expense) scaled by current total assets"
+14,op_atl1,"current Operating Profit ala Ball (i.e. Operating Income Before Interest, Taxes, Depreciation and Amortization plus Research and Development Expense) scaled by total assets lagged 1 year"
+15,ope_be,"current Operating profit to Equity (Operating Income Before Interest, Taxes, Depreciation and Amortization minus Interest and Related Expense to the company of securing short- and long-term debt) scaled by current book equity (i.e. Shareholders equity plus Deferred Taxes and Investment credit minus preferred stock)"

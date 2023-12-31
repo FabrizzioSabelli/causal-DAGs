@@ -1,0 +1,28 @@
+,Name,definition
+0,ret_60_12,ratio of change of cumulative stock returns 1 year lagged  from to cumulative stock returns 5 years lagged 
+1,ret_3_1,ratio of cumulative stock returns from the previous month to the cumulative stock returns lagged 3 months (i.e. 3 months ago).
+2,ret_6_1,ratio of cumulative stock returns from the previous month to the cumulative stock returns lagged 6 months (i.e. 6 months ago).
+3,ret_12_7,ratio of cumulative stock returns lagged 7 months to the cumulative stock  stock returns lagged 1 year (i.e 1 year ago).
+4,ret_12_1,ratio of cumulative stock returns from the previous month to the cumulative stock returns lagged 1 year (i.e 1 year ago).
+5,ret_9_1,ratio of cumulative stock returns from the previous month to the cumulative stock returns lagged 9 months (i.e. 9 months ago).
+6,ret_1_0,ratio of the current Cumulative stock return estimated from stock returns to the Cumulative stock return estimated from stock returns lagged 1 month.
+7,iskew_capm_21d,Idiosyncratic skewness from the CAPM model (skewness of the error term of the CAPM model)
+8,iskew_ff3_21d,Idiosyncratic skewness from the Fama-French 3-factor model (skewness of the error term of the Fama-French 3-factor model)
+9,beta_60m,CAPM (i.e. Capital Asset Pricing Model) Beta  (i.e. measure of the volatility–or systematic risk–of a security or portfolio compared to the market as a whole) over the past 5 years. The formula is covariance of a specfic companies's stock returns and the market stock returns divided by the variance of the market stock returns over the same period.
+10,ivol_ff3_21d,Idiosyncratic volatility (i.e. volatility that cannot be explained by market volatility) from the Fama-French 3-factor model of the previous month)
+11,coskew_21d,measure of coskewness between the error term of the CAPM model and market stock returns over the previous month
+12,resff3_6_1,Residual momentum (error term in Fama-French 3-factor model) over the past 6 months
+13,ivol_hxz4_21d,Idiosyncratic volatility from the q-factor model (i.e. q-factor model is an empirical implementation of the investment-based capital asset pricing model [the Investment CAPM]) of the past 21 tradings (i.e. the preivous month)
+14,iskew_hxz4_21d,Idiosyncratic skewness from the q-factor model (skewness of the error term of the q-factor model)
+15,beta_dimson_21d,Dimson market beta over the previous 21 trading days (i.e. the previous month). A market beta is measure of the volatility–or systematic risk–of a security or portfolio compared to the market as a whole.
+16,betabab_1260d,correlation between the stock returns and the market stock returns for the previous 5 years multiplied by the stock's realized volatility of the previous year divided by the market realized volatility of the previous year.
+17,corr_1260d,correlation between the stock returns and the market stock returns for the previous 5 years 
+18,ivol_capm_252d,Idiosyncratic volatility from the CAPM (i.e. Capital Asset Pricing Model) of the past 252 trading days (i.e. the previous year)
+19,rvol_21d,stock returns volatility of the previous trading 21 days (i.e. the previous month)
+20,rskew_21d,Skewness of the stock returns over the previous month (21 trading days)
+21,rmax5_rvol_21d,Maximum 5-day stock returns over the previous 21 trading days (i.e. the previous month) scaled by annual realized volatility (voatility of the stock returns of the past year)
+22,rmax5_21d,Maximum 5-day stock returns over the previous 21 trading days (i.e. the previous month)
+23,rmax1_21d,Maximum daily stock return over the previous 21 trading days (i.e. the previous month)
+24,resff3_12_1,Residual momentum (error term in Fama-French 3-factor model) over the past year
+25,betadown_252d,Beta (i.e. measure of the volatility–or systematic risk–of a security or portfolio compared to the market as a whole) of a stock's stock returns with respect to the negative market stock returns (i.e. when the market stock returns are negative) over the previous year. This is calculated using linear regression.
+26,ivol_capm_21d,Idiosyncratic volatility from the CAPM (i.e. Capital Asset Pricing Model) of the past 21 tradings (i.e. the previous month)

@@ -1,0 +1,11 @@
+,Name,definition
+0,seas_6_10na,Average stock return over non-annual lags.  This is calculated by taking the average of the returns over the 10 previous years but not including the values of the 6 previous years. (i.e. values 6 years in the past to 10 years in the past)
+1,seas_6_10an,Average stock return over annual lags. This is calculated by taking the average of the returns over the 10 previous years but not including the values of the 6 previous years.  (i.e. values 6 years in the past to 10 years in the past)
+2,seas_2_5na,Average stock return over non-annual lags.  This is calculated by taking the average of the returns over the 5 previous years but not including the values of the 2 previous years. (i.e. values 2 years in the past to 5 years in the past)
+3,seas_2_5an,Average stock return over annual lags. This is calculated by taking the average of the returns over the 5 previous years but not including the values of the 2 previous years.  (i.e. values 2 years in the past to 5 years in the past)
+4,seas_1_1na,Average stock return over non-annual lags.  This is calculated by taking the average of the returns over the  previous year but not including the values of the previous month. (i.e. values from 1 month in the past to 1 year in the past)
+5,seas_1_1an,stock returns lagged by 12 months
+6,seas_16_20na,Average stock return over non-annual lags.  This is calculated by taking the average of the returns over the 20 previous years but not including the values of the 16 previous years. (i.e. values 16 years in the past to 20 years in the past)
+7,seas_16_20an,Average stock return over annual lags . This is calculated by taking the average of the returns over the 20 previous years but not including the values of the 16 previous years. (i.e. values 16 years in the past to 20 years in the past)
+8,seas_11_15na,Average stock return over non-annual lags.  This is calculated by taking the average of the returns over the 15 previous years but not including the values of the 11 previous years. (i.e. values 11 years in the past to 15 years in the past)
+9,seas_11_15an,Average stock return over annual lags. This is calculated by taking the average of the returns over the 15 previous years but not including the values of the 11 previous years.  (i.e. values 11 years in the past to 15 years in the past)

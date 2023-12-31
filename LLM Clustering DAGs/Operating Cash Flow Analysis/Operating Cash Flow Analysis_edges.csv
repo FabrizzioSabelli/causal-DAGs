@@ -1,0 +1,7 @@
+,Node A,Node B
+0,ocf_me,oaccruals_ni
+1,ocf_me,ocf_at
+2,oaccruals_at,oaccruals_ni
+3,ocf_at_chg1,ocf_at
+4,ocfq_saleq_std,ocf_at
+5,ocf_at,oaccruals_ni

@@ -1,0 +1,9 @@
+,Name,definition
+0,ret_6_1,ratio of cumulative stock returns from the previous month to the cumulative stock returns lagged 6 months (i.e. 6 months ago).
+1,ret_12_1,ratio of cumulative stock returns from the previous month to the cumulative stock returns lagged 1 year (i.e 1 year ago).
+2,prc_highprc_252d,ratio of current stock price of the highest stock price over the past year
+3,resff3_6_1,Residual momentum (error term in Fama-French 3-factor model) over the past 6 months
+4,resff3_12_1,Residual momentum (error term in Fama-French 3-factor model) over the past year
+5,seas_1_1na,Average stock return over the period of 11 months ago to 1 month ago.
+6,ret_3_1,ratio of cumulative stock returns from the previous month to the cumulative stock returns lagged 3 months (i.e. 3 months ago).
+7,ret_9_1,ratio of cumulative stock returns from the previous month to the cumulative stock returns lagged 9 months (i.e. 9 months ago).

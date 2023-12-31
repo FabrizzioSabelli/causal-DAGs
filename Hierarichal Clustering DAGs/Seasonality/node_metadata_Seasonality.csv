@@ -1,0 +1,13 @@
+,Name,definition
+0,sti_gr1a,Change in short-term investments over a year (i.e. current total short-term investments minus total short-term investments lagged 1 year) scaled by assets
+1,lti_gr1a,Change in long-term investments over a year (i.e. current total long-term investments minus total long-term investments lagged 1 year) scaled by assets
+2,dbnetis_at,current total Net Debt Issuance scaled by Assets
+3,pi_nix,current Earnings before Tax and Extraordinary Items to current Net Income Including Extraordinary Items
+4,kz_index,"The KZ-Index is a relative measurement of reliance on external financing. This index is built using the following elements: Net income before extraordinary items, Depreciation and Amortization, net cost of Property, Plans and Equipment (i.e. the cost, less accumulated depreciation, of tangible fixed property used in the production of revenue) lagged 1 year, the current total assets, book equity (i.e. Shareholders equity plus Deferred Taxes and Investment credit minus preferred stock), total debt, total Cash and Short-Term Investments, Market Equity (i.e. Share Price times publicly held number of shares), shareholders equity (i.e. the common and preferred shareholders' interest in the company) and total dividends."
+5,seas_2_5an,Average stock return over annual lags. This is calculated by taking the average of the returns over the 5 previous years but not including the values of the 2 previous years.  (i.e. values 2 years in the past to 5 years in the past)
+6,seas_6_10an,Average stock return over annual lags. This is calculated by taking the average of the returns over the 10 previous years but not including the values of the 6 previous years.  (i.e. values 6 years in the past to 10 years in the past)
+7,seas_11_15an,Average stock return over annual lags. This is calculated by taking the average of the returns over the 15 previous years but not including the values of the 11 previous years.  (i.e. values 11 years in the past to 15 years in the past)
+8,seas_11_15na,Average stock return over non-annual lags.  This is calculated by taking the average of the returns over the 15 previous years but not including the values of the 11 previous years. (i.e. values 11 years in the past to 15 years in the past)
+9,seas_16_20an,Average stock return over annual lags . This is calculated by taking the average of the returns over the 20 previous years but not including the values of the 16 previous years. (i.e. values 16 years in the past to 20 years in the past)
+10,coskew_21d,measure of coskewness between the error term of the CAPM model and market stock returns over the previous month
+11,corr_1260d,correlation between the stock returns and the market stock returns for the previous 5 years 

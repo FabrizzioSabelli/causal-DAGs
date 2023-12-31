@@ -1,0 +1,13 @@
+,Name,definition
+0,niq_at,current Quartely net income before extraordinary items scaled by total assets lagged 3 quarters
+1,niq_be_chg1,Change over a year of the Quartely net income before extraordinary items scaled by book equity  (i.e. Shareholders equity plus Deferred Taxes and Investment credit minus preferred stock) lagged 3 quarters
+2,ni_ar1,1 year lagged Net Income to 1 year lagged total Assets 
+3,ni_inc8q,Number of consecutive quarters with earnings increases
+4,ni_ivol,current Net Income before extraordinary items Idiosyncratic Volatility (i.e. volatility that cannot be explained by market volatility)
+5,niq_be,current Quartely net income before extraordinary items scaled by book equity  (i.e. Shareholders equity plus Deferred Taxes and Investment credit minus preferred stock) lagged 3 quarters
+6,ni_me,current Net Income before extraordinary items scaled by current market equity  (i.e. Share Price times publicly held number of shares) 
+7,niq_at_chg1,Change over a year of the Quartely net income before extraordinary items scaled by total assets  lagged 3 quarters
+8,niq_su,Standardized unexpected quartely earnings (i.e. Net income) surprise. A standardized unexpected quartely earnings surprise is determined by comparing the value of the current realization with values lagged 3 financial quarters and 15 financial quarters.
+9,ni_be,Current net income before extraordinary items scaled by current book equity  (i.e. Shareholders equity plus Deferred Taxes and Investment credit minus preferred stock) 
+10,ebit_bev,"current Operating Income After Depreciation (Earnings Before Interest and Taxes; the formula is sum of net sales minus Cost of Goods Sold  minus Selling, General & Administrative Expense minus Depreciation/Amortization) scaled by current Book entrepresie value (Total Invested Capital plus Debt in current liabilities minus Cash and Short-term investments). Total invested capital debt represents the sum of the following elements: total long-term debt, preferred stock, total noncontrolling interests and common equity.. "
+11,earnings_variability,ratio of variability of scaled Net income to scaled Operating activities Cash Flow over a period of five years

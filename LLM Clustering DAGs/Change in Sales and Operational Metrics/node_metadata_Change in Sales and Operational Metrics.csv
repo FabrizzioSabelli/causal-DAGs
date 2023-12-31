@@ -1,0 +1,5 @@
+,Name,definition
+0,dsale_dsga,"Change to expected sales minus change in expected selling, general and administrative expenses. The change in expectations of a certain element is calculated using the current value, the value lagged 1 year and the value lagged two years."
+1,dsale_drec,"Change to expected sales minus change in expected  Account receivables (i.e. claims against others, after applicable reserves, collectible in money, generally within one year). The change in expectations of a certain element is calculated using the current value, the value lagged 1 year and the value lagged two years."
+2,dsale_dinv,"Change to expected sales minus change in expected Inventory. The change in expectations of a certain element is calculated using the current value, the value lagged 1 year and the value lagged two years."
+3,dgp_dsale,"Change to expected gross profit (Sales/Turnover minus the cost of goods sold) minus change in expected sales. The change in expectations of a certain element is calculated using the current value, the value lagged 1 year and the value lagged two years."
